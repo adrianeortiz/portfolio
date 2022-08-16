@@ -3893,7 +3893,11 @@ input, select, textarea {
 	#headshot {
 		float: right;
 		margin: 25px;
-
+		height: auto; 
+    	width: auto; 
+    	max-width: auto; 
+   		max-height: auto;
+		border: b;
 	}
 
 	.projectPic {
